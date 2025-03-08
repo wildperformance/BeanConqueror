@@ -26,7 +26,7 @@ milestones:
     title: Portafilter
     description: First portafilter integration
     status: active
-  - year: 03/2025
+  - year: 03/2026
     title: New Website
     description: New design, new styles and new everything
     status: inactive
